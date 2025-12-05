@@ -26,7 +26,7 @@ Un bot de Telegram minimalista y eficiente para gestionar listas compartidas en 
 
 1. **Clona el repositorio:**
    ```
-   git clone \[https://github.com/javilopezg/nuestralistabot.git\](https://github.com/javilopezg/nuestralistabot.git)  
+   git clone https://github.com/javilopezg/nuestralistabot.git
    cd nuestralistabot
    ```
 2. Configura el entorno:  
