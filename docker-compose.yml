@@ -1,0 +1,11 @@
+services:
+  telegram-bot:
+    build: .
+    container_name: nuestralistabot
+    restart: unless-stopped
+    # Carga automáticamente el archivo .env si está en la misma carpeta
+    env_file:
+      - .env
+    volumes:
+      # Mapea la carpeta data local a la del contenedor
+      - ./data:/data
