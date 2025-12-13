@@ -1,6 +1,6 @@
 # **📋 Lista Bot (Telegram)**
 
-Un bot de Telegram minimalista y eficiente para gestionar listas compartidas en grupos o canales. Cada chat mantiene su propia lista independiente persistente.
+Un bot de Telegram minimalista y eficiente para gestionar listas compartidas en grupos o canales. Cada chat mantiene sus propias listas independientes persistentes.
 
 ## **🚀 Funcionalidades**
 
